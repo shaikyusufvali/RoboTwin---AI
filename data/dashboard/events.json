@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-10-11T15:34:05+05:30",
+    "scenario": "S01",
+    "event_type": "RUN_STARTED",
+    "message": "Existing temporal/multimodal runtime started."
+  },
+  {
+    "timestamp": "2026-10-11T15:34:28+05:30",
+    "scenario": "S01",
+    "event_type": "RUN_FINISHED",
+    "message": "Process exit code: 0"
+  },
+  {
+    "timestamp": "2026-10-11T15:34:58+05:30",
+    "scenario": "S02",
+    "event_type": "RUN_STARTED",
+    "message": "Existing temporal/multimodal runtime started."
+  },
+  {
+    "timestamp": "2026-10-11T15:35:17+05:30",
+    "scenario": "S02",
+    "event_type": "RUN_FINISHED",
+    "message": "Process exit code: 0"
+  },
+  {
+    "timestamp": "2026-10-11T15:36:09+05:30",
+    "scenario": "S03",
+    "event_type": "RUN_STARTED",
+    "message": "Existing temporal/multimodal runtime started."
+  },
+  {
+    "timestamp": "2026-10-11T15:36:26+05:30",
+    "scenario": "S03",
+    "event_type": "RUN_FINISHED",
+    "message": "Process exit code: 0"
+  },
+  {
+    "timestamp": "2026-10-11T15:37:10+05:30",
+    "scenario": "S04",
+    "event_type": "RUN_STARTED",
+    "message": "Existing temporal/multimodal runtime started."
+  },
+  {
+    "timestamp": "2026-10-11T15:37:30+05:30",
+    "scenario": "S04",
+    "event_type": "RUN_FINISHED",
+    "message": "Process exit code: 0"
+  }
+]
